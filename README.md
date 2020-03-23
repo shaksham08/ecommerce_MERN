@@ -37,8 +37,8 @@ Backend Test :
 
 Setup : 
 
-1. Express
-2. Nodemon
+1. Express(https://expressjs.com/)
+2. Nodemon(https://nodemon.io/)
 
 
 
