@@ -27,7 +27,7 @@ These are some of the codes which we recieve from the server side , which help u
 14. 503 Server Unavailable
 15. 550 Permission Denied
 
-<h3>Designing the architecture on [coogle](https://coggle.it)</h3>
+<h3>Designing the architecture on coogle(https://coggle.it)</h3>
 
 
 
