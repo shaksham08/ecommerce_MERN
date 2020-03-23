@@ -8,4 +8,5 @@
 
 
 
-
+1. robo3T - https://robomongo.org/
+2. Node(version: 12.10.0) :- https://nodejs.org/en/
