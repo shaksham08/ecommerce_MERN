@@ -11,11 +11,19 @@
 
 These are some of the codes which we recieve from the server side , which help us to identify the cause of the error.
 
-1. **200 OK**
-2. 400 Bad Request
-3. **401 Unauthorized**
-4. 404 Not Found
-5. **500 Inernal Server Error**
-6. 503 Server Unavailable
-7. 550 Permission Denied
+1.  **200 OK**
+2.  300 Multiple choices
+3.  301 Moved Permanentaly
+4.  302 Found
+5.  304 Not Modified
+6.  307 Temporary Redirect
+7.  400 Bad Request
+8.  **401 Unauthorized**
+9.  403 Forbidden
+10. 404 Not Found
+11. 410 Gone
+12. **500 Inernal Server Error**
+13. Not implemented
+14. 503 Server Unavailable
+15. 550 Permission Denied
 
