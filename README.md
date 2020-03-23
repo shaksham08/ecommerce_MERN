@@ -11,18 +11,18 @@
 
 These are some of the codes which we recieve from the server side , which help us to identify the cause of the error.
 
-1.  <font color="red">**200 OK**</font>
+1.  **200 OK** ::boom::
 2.  300 Multiple choices
 3.  301 Moved Permanentaly
 4.  302 Found
 5.  304 Not Modified
 6.  307 Temporary Redirect
 7.  400 Bad Request
-8.  <font color="red">**401 Unauthorized**</font>
+8.  **401 Unauthorized** ::boom::
 9.  403 Forbidden
 10. 404 Not Found
 11. 410 Gone
-12. <font color="red">**500 Inernal Server Error**</font>
+12. **500 Inernal Server Error** ::boom::
 13. Not implemented
 14. 503 Server Unavailable
 15. 550 Permission Denied
