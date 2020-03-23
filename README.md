@@ -29,7 +29,7 @@ These are some of the codes which we recieve from the server side , which help u
 
 <h3>Designing the architecture using min mapping on coogle(https://coggle.it)</h3>
 
-Backend:
+<h3>Backend:</h3>
 
 ![alt text](https://github.com/shaksham08/ecommerce_MERN/blob/master/backend.jpg "Backend")
 
