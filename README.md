@@ -33,6 +33,14 @@ These are some of the codes which we recieve from the server side , which help u
 
 ![alt text](https://github.com/shaksham08/ecommerce_MERN/blob/master/backend.jpg "Backend")
 
+Backend Test :
+
+Setup : 
+
+1. npm init
+2. npm i express
+
+
 
 
 
