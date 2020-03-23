@@ -37,8 +37,8 @@ Backend Test :
 
 Setup : 
 
-1. npm init
-2. npm i express
+1. Express
+2. Nodemon
 
 
 
