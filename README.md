@@ -39,7 +39,8 @@ Setup :
 
 1. Express(https://expressjs.com/)
 2. Nodemon(https://nodemon.io/)
-
+3. Mongoose(https://mongoosejs.com/)
+4. UUID 
 
 
 
