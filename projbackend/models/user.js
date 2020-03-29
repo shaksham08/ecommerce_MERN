@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 const crypto = require('crypto');
-const uuidv1 = require("uuid/v1");s
+const uuidv1 = require("uuid/v1");
 var Schema = mongoose.Schema;
 
 var userSchema = new Schema({
@@ -43,16 +43,16 @@ var userSchema = new Schema({
     }
 
 
-});
+}, { timestamps: true });
 
 userSchema.virtual("password")
     .set(function (password) {
-        this._password = password
+        this._password = password //private variable so _
         this.salt = uuidv1();
         this.encry_password = this.securePassword(password)
     })
     .get(function () {
-        return this._password
+        return this._password //in case someone want the password
     })
 
 userSchema.method={
