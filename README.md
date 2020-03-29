@@ -46,10 +46,11 @@ Setup :
 
 Here the UUID gives us the salt id and using crypto(builtin tool in node we produce the hased value.
 Here we also make use of virtuals from mongoose -: 
-1. Virtuals:-https://mongoosejs.com/docs/tutorials/virtuals.html#your-first-virtual
+1. Mongoose Virtuals:-https://mongoosejs.com/docs/tutorials/virtuals.html#your-first-virtual
 2. UUID - https://www.npmjs.com/package/uuid
 3. salt - https://en.wikipedia.org/wiki/Salt_(cryptography)
 4. crypto:- https://nodejs.org/api/crypto.html
+5. Mongoose object id:- https://mongoosejs.com/docs/api/mongoose.html
 
 
 
