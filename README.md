@@ -43,12 +43,19 @@ Setup :
 4. UUID 
 
 References :- 
+
 Here the UUID gives us the salt id and using crypto(builtin tool in node we produce the hased value.
+
 Here we also make use of virtuals from mongoose -: 
+
 Virtuals:-https://mongoosejs.com/docs/tutorials/virtuals.html#your-first-virtual
+
 UUID - https://www.npmjs.com/package/uuid
+
 salt - https://en.wikipedia.org/wiki/Salt_(cryptography)
+
 crypto:- https://nodejs.org/api/crypto.html
+
 
 
 
