@@ -5,9 +5,10 @@ const ProductCartSchema  = new mongoose.Schema({
         type: ObjectId,
         ref:"Product"
     },
-    name :String,
-    count:Number,
-    price:Number,
+    //below will things which we want to show in the cart
+    name :String, //from product we will get the name
+    count:Number, //how many product we are ordering 
+    price:Number,//totat price of total units
 
 });
 
