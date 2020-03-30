@@ -51,6 +51,9 @@ Here we also make use of virtuals from mongoose -:
 3. salt - https://en.wikipedia.org/wiki/Salt_(cryptography)
 4. crypto:- https://nodejs.org/api/crypto.html
 5. Mongoose object id:- https://mongoosejs.com/docs/api/mongoose.html
+6. DotENV - https://www.npmjs.com/package/dotenv
+
+//suppose we dont want to expose the database connection directly , so we can use this environment variables instead of that.
 
 
 
