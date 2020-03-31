@@ -42,6 +42,7 @@ Setup :
 3. Mongoose(https://mongoosejs.com/)
 4. UUID 
 
+
 **References :-** 
 
 Here the UUID gives us the salt id and using crypto(builtin tool in node we produce the hased value.
@@ -55,6 +56,10 @@ Here we also make use of virtuals from mongoose -:
 7. MIddlewares in NODEJS :- https://expressjs.com/en/guide/writing-middleware.html
 
 //suppose we dont want to expose the database connection directly , so we can use this environment variables instead of that.
+
+**MIDDLEWARES IN NODEJS:**
+
+1. Bodyparser : https://www.npmjs.com/package/body-parser
 
 
 
