@@ -59,9 +59,9 @@ Here we also make use of virtuals from mongoose -:
 
 **MIDDLEWARES IN NODEJS:**
 
-1. Bodyparser : https://www.npmjs.com/package/body-parser
-
-
+1. Body-parser : https://www.npmjs.com/package/body-parser
+2. Cookie-parser: https://www.npmjs.com/package/cookie-parser
+3. cors:- https://www.npmjs.com/package/cors
 
 
 
