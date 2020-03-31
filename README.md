@@ -54,6 +54,7 @@ Here we also make use of virtuals from mongoose -:
 5. Mongoose object id:- https://mongoosejs.com/docs/api/mongoose.html
 6. DotENV - https://www.npmjs.com/package/dotenv
 7. MIddlewares in NODEJS :- https://expressjs.com/en/guide/writing-middleware.html
+8. Express router:https://expressjs.com/en/guide/routing.html
 
 //suppose we dont want to expose the database connection directly , so we can use this environment variables instead of that.
 
