@@ -62,7 +62,7 @@ Here we also make use of virtuals from mongoose -:
 1. Body-parser : https://www.npmjs.com/package/body-parser
 2. Cookie-parser: https://www.npmjs.com/package/cookie-parser
 3. cors:- https://www.npmjs.com/package/cors
-REFERENCE:- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+<br>REFERENCE:- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 
 
 
