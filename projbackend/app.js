@@ -5,8 +5,6 @@ const mongoose = require('mongoose');
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 const cors = require("cors");
-
-
 const authRoutes = require("./routes/auth.js");
 
 //process is where we attactch the new dependencies

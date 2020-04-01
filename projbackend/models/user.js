@@ -55,14 +55,14 @@ userSchema.virtual("password")
         return this._password //in case someone want the password
     })
 
-userSchema.method={
+userSchema.methods={
 
     authenticate: function(plainpassword){
         return this.securePassword(plainpassword) === this.encry_password
     },
     
     securePassword: function (plainpassword) {
-        if(!password) return "";
+        if (!plainpassword) return "";
         try {
             return crypto
                 .createHmac('sha256', this.salt)
