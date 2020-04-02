@@ -66,7 +66,7 @@ Here we also make use of virtuals from mongoose -:
 2. Cookie-parser: https://www.npmjs.com/package/cookie-parser
 3. cors:- https://www.npmjs.com/package/cors
 <br>REFERENCE:- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
-4. Express validator : https://express-validator.github.io/docs/
+4. Express validator : https://express-validator.github.io/docs/custom-validators-sanitizers.html
 
 
 
