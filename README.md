@@ -42,7 +42,7 @@ Setup :
 1. Express(https://expressjs.com/)
 2. Nodemon(https://nodemon.io/)
 3. Mongoose(https://mongoosejs.com/)
-4. UUID 
+4. UUID
 
 
 **References :-** 
@@ -66,6 +66,7 @@ Here we also make use of virtuals from mongoose -:
 2. Cookie-parser: https://www.npmjs.com/package/cookie-parser
 3. cors:- https://www.npmjs.com/package/cors
 <br>REFERENCE:- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+4. Express validator : https://express-validator.github.io/docs/
 
 
 
