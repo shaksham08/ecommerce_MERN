@@ -67,6 +67,9 @@ Here we also make use of virtuals from mongoose -:
 3. cors:- https://www.npmjs.com/package/cors
 <br>REFERENCE:- https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 4. Express validator : https://express-validator.github.io/docs/custom-validators-sanitizers.html
+5. Json web token :-https://www.npmjs.com/package/jsonwebtoken
+6. Express-jwt :- https://www.npmjs.com/package/express-jwt
+<br>Judge a user is logged in or not
 
 
 
