@@ -26,6 +26,7 @@ mongoose.connect(process.env.DATABASE,{
 //using middlewares
 app.use(bodyParser.json());
 app.use(cookieParser());
+//cookie parser helps u add some value to cookie or delete some 
 app.use(cors());
 
 //Routes
