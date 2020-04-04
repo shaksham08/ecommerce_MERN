@@ -58,6 +58,7 @@ Here we also make use of virtuals from mongoose -:
 7. MIddlewares in NODEJS :- https://expressjs.com/en/guide/writing-middleware.html
 8. Express router:https://expressjs.com/en/guide/routing.html
 9. JWT(bearer) :- https://jwt.io/introduction/
+10. Router param : http://expressjs.com/en/5x/api.html#router.param
 
 //suppose we dont want to expose the database connection directly , so we can use this environment variables instead of that.
 
