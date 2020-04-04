@@ -32,6 +32,7 @@ These are some of the codes which we recieve from the server side , which help u
 <h3>1. Backend:</h3>
 
 :exclamation::exclamation:  -- Middlewares
+<br> :star: - params
 
 ![alt text](https://github.com/shaksham08/ecommerce_MERN/blob/master/backend.jpg "Backend")
 
