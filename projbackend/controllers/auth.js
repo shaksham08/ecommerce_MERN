@@ -79,11 +79,12 @@ exports.signout = (req, res) => {
 //we are not writing next because we are using express jwt as it has already
 exports.isSignedIn = expressJwt({
     secret:process.env.SECRET,
-    //this middleware puts the auth in request
+    //this middleware puts the auth in request so if we return json as req.auth we will get back the id of the signed in person
     userProperty:"auth"
 });
 
 exports.isAuthenticated = (req,res,next) => {
+    //here req.auth is set efire in isSigned property here this is used to check if he is signed in or not
     let checker = req.profile && req.auth && req.profile._id==req.auth._id;
     if(!checker){
         return res.status(403).json({
