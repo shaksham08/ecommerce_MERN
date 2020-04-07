@@ -53,7 +53,9 @@ exports.updateUser = (req,res)=>{
 
 exports.userPurchaseList = (req,res) =>{
     Order.find({user : req.profile._id})
+    //what model you want to update and what field you want to bring in 
     .populate("user" , "_id name")
+    //here are 2 field _id and name
     .exec((err,order)=>{
         if(err){
             return res.status(400).json({
