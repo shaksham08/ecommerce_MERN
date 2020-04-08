@@ -10,6 +10,7 @@ const cors = require("cors");
 const authRoutes = require("./routes/auth.js");
 const userRoutes = require("./routes/user.js")
 const categoryRoutes= require("./routes/category.js")
+const productRoutes= require("./routes/product.js")
 
 //process is where we attactch the new dependencies
 //env is the file we created 
@@ -37,6 +38,7 @@ app.use(cors());
 app.use("/api" , authRoutes);
 app.use("/api" , userRoutes);
 app.use("/api", categoryRoutes);
+app.use("/api", productRoutes);
 
 
 
