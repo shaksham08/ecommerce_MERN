@@ -74,6 +74,7 @@ Here we also make use of virtuals from mongoose -:
 5. Json web token :-https://www.npmjs.com/package/jsonwebtoken
 6. Express-jwt :- https://www.npmjs.com/package/express-jwt
 <br>Judge a user is logged in or not
+7. formidable :- https://www.npmjs.com/package/formidable
 
 
 
